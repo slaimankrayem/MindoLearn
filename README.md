@@ -4,7 +4,7 @@ MindoLearn is an online learning platform dashboard built with React.js.
 The app allows users to browse courses by category, track their learning progress, and navigate between multiple pages. It features:
 
  Home — Welcome banner with user stats, Continue Learning cards, and course grids for Marketing and Math categories
-ℹ About Us — Platform description and value cards
+ About Us — Platform description and value cards
  Contact Us — Contact form with name, email, and message fields using useState and handleChange
  Help Center — Searchable help topics organized by category using useState
  Multi-page routing using React Router DOM with Link, Routes, and Route
