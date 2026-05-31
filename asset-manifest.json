@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slaimankrayem/MindoLearn.git/static/css/main.c0df4063.css",
+    "main.js": "/slaimankrayem/MindoLearn.git/static/js/main.2bc6229d.js",
+    "static/js/453.98f03613.chunk.js": "/slaimankrayem/MindoLearn.git/static/js/453.98f03613.chunk.js",
+    "index.html": "/slaimankrayem/MindoLearn.git/index.html",
+    "main.c0df4063.css.map": "/slaimankrayem/MindoLearn.git/static/css/main.c0df4063.css.map",
+    "main.2bc6229d.js.map": "/slaimankrayem/MindoLearn.git/static/js/main.2bc6229d.js.map",
+    "453.98f03613.chunk.js.map": "/slaimankrayem/MindoLearn.git/static/js/453.98f03613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0df4063.css",
+    "static/js/main.2bc6229d.js"
+  ]
+}
